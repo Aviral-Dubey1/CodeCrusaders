@@ -1,4 +1,4 @@
 # CodeCrusaders
 Skillathon Main Repository <br>
-<h5>Team Members :</h5> <br>
+<h3>Team Members :</h3> <br>
 Aviral Dubey and Rohit Sastia
